@@ -12,7 +12,7 @@ Change the format between any of these animated image formats. A gif can be tran
 ## ModifyChange the dimensions and desired number of frames. Your animation can be turned slightly in their size, can be applied deformation and speed!
 
 ## Animation for MCUs
-![animation for MCU](./easyMaker.jpg)
+![animation for MCU](./easyMaker-mcu.jpg)
 The best resource for makers that love RGB displays and MCUs! Create an animation for RGB displays such as ILI9341, ST7789 and so on.
 The program will generate a frame sample, an animation header to include in your sketch and an example sketch. Just copy the sketch and header and flash your microcontroller! It's ready to use!
 
