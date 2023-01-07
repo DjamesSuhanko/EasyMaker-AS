@@ -5,7 +5,7 @@ Create, convert and modify existent animated images, such as GIF, WEBP and APNG 
 ![EasyMaker interface](./easymaker-interface.jpg)
 
 ## Create
-Create an animated image using a sequence of images from your computer. You can cancreate animated gif, webp or apng for web, social media or to send by telegram and whatsapp.
+Create an animated image using a sequence of images from your computer. You can create animated gif, webp or apng for web, social media or to send by telegram and whatsapp.
 
 ## Convert
 Change the format between any of these animated image formats. A gif can be transformed in a webp, apng or again, gif renamed.
