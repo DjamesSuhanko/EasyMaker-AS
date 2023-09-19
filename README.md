@@ -20,4 +20,4 @@ The program will generate a frame sample, an animation header to include in your
 
 ## How to use this program
 The usage is really very easy! Just download the installer in [releases](https://github.com/DjamesSuhanko/EasyMaker-AS/releases). Install and open the program. Now, you can watch [this video](https://youtu.be/3nGWqujnzlQ) showing all resources!
-Related articles are available in [Do bit Ao Byte](https://dobitaobyte.com.br). Just search for "EasyMaker" in the  "Search" box.
+Related articles are available in [Manual do Maker](https://www.manualdomaker.com/). Just search for "EasyMaker" in the  "Search" box.
